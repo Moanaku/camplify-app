@@ -10,7 +10,7 @@ Proyek ini mencakup slicing UI untuk dua role pengguna: **Customer** (Penyewa) d
 
 Berikut adalah hasil implementasi antarmuka yang telah dikerjakan:
 
-| Login & Auth | Dashboard Utama | Detail Produk |
+| Role Selection | Dashboard Utama | Detail Produk |
 |:---:|:---:|:---:|
 | <img src="screenshot/role_selection.png" width="200" /> | <img src="screenshot/home.png" width="200" /> | <img src="screenshot/detail.png" width="200" /> |
 
