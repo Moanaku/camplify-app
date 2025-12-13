@@ -12,7 +12,7 @@ Berikut adalah hasil implementasi antarmuka yang telah dikerjakan:
 
 | Login & Auth | Dashboard Utama | Detail Produk |
 |:---:|:---:|:---:|
-| <img src="screenshots/role_selection.png" width="200" /> | <img src="screenshots/home.png" width="200" /> | <img src="screenshots/detail.png" width="200" /> |
+| <img src="screenshot/role_selection.png" width="200" /> | <img src="screenshot/home.png" width="200" /> | <img src="screenshot/detail.png" width="200" /> |
 
 *(Gambar di atas menunjukkan alur utama aplikasi dari login hingga pemesanan)*
 
