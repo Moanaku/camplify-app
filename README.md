@@ -6,26 +6,35 @@ Proyek ini mencakup slicing UI untuk dua role pengguna: **Customer** (Penyewa) d
 
 ---
 
+## 📸 Tampilan Aplikasi (UI Slicing)
+
+Berikut adalah hasil implementasi antarmuka yang telah dikerjakan:
+
+| Login & Auth | Dashboard Utama | Detail Produk |
+|:---:|:---:|:---:|
+| <img src="screenshots/role_selection.png" width="200" /> | <img src="screenshots/home.png" width="200" /> | <img src="screenshots/detail.png" width="200" /> |
+
+*(Gambar di atas menunjukkan alur utama aplikasi dari login hingga pemesanan)*
+
+---
+
 ## 📱 Tech Stack
 * **Framework:** Flutter (Dart)
 * **Architecture:** Modular Clean Structure
 * **Scope:** Frontend UI Slicing & Mock Data Integration
 
----
-
 ## ✨ Fitur Utama
 
-### 👤 Customer Side (Penyewa)
+### 👤 Customer Side
 * **Onboarding:** Splash screen & Role Selection.
 * **Discovery:** Pencarian tempat camping, filter kategori, dan rekomendasi.
 * **Transaksi:** Keranjang (Cart), Checkout UI, dan Status Pesanan.
-* **Profil:** Manajemen biodata, dokumen pengguna, dan pengaturan akun.
+* **Profil:** Manajemen biodata dan dokumen pengguna.
 
-### 🏪 Merchant Side (Mitra)
-* **Registrasi Mitra:** Alur pendaftaran khusus pemilik tempat camping.
-* **Dashboard:** Halaman utama manajemen toko.
+### 🏪 Merchant Side
+* **Kelola Toko:** Dashboard merchant dan registrasi layanan.
 
 ---
 
 ## 📂 Struktur Project
-Kode disusun secara modular (Clean Architecture) untuk memudahkan pengembangan dan maintenance:
+Kode disusun secara modular agar mudah dikembangkan:
